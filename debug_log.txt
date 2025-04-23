@@ -1,0 +1,158 @@
+Fetched Order: Array
+(
+    [address] => Phase 9 Bagong Silang Caloocan City
+    [contactNumber] => 639416164986
+    [email] => encarnacionucceduc@gmail.com
+    [name] => Encarnacion, Sean Spencer R.
+    [orderID] => 5
+    [referenceNumber] => 789165461813213
+    [timestamp] => 3/26/2025, 10:05:17 AM
+)
+
+Fetched Order: Array
+(
+    [address] => Phase 10, Camacho, City of Balanga, Bataan
+    [contactNumber] => 639789316891
+    [email] => jeadjylle@gmail.com
+    [name] => Edward Santos, Jr.
+    [orderID] => 6
+    [referenceNumber] => 789461331854465
+    [timestamp] => 3/26/2025, 10:16:46 AM
+)
+
+Fetched Order: Array
+(
+    [address] => B5 L48 CELINA1, Barangay 175, City of Caloocan, Metro Manila (NCR)
+    [contactNumber] => 639452279541
+    [email] => ajanedeasio@gmail.com
+    [name] => April Albania
+    [orderID] => 3
+    [referenceNumber] => 123712312123123
+    [timestamp] => 03/14/2025, 02:49 PM
+)
+
+Fetched Order: Array
+(
+    [address] => Phase 9 Pkg 7A, Barangay 176, City of Caloocan, Metro Manila (NCR)
+    [contactNumber] => 639765757585
+    [email] => banokempas@gmail.com
+    [name] => Jannah Empas
+    [orderID] => 7
+    [referenceNumber] => 836283262682582
+    [timestamp] => 3/28/2025, 12:17:30 PM
+)
+
+Fetched Order: Array
+(
+    [address] => phase 1, Barangay 176, City of Caloocan, Metro Manila (NCR)
+    [contactNumber] => 639150641248
+    [email] => ellatotsikels04@gmail.com
+    [name] => Ela Buenabajo
+    [orderID] => 9
+    [referenceNumber] => 427924759238484
+    [timestamp] => 4/4/2025, 11:33:43 AM
+)
+
+Fetched Order: Array
+(
+    [address] => phase 1, Barangay 176, City of Caloocan, Metro Manila (NCR)
+    [contactNumber] => 639150641248
+    [email] => ellatotsikels04@gmail.com
+    [name] => Ela Buenabajo
+    [orderID] => 10
+    [referenceNumber] => 632426675656232
+    [timestamp] => 4/4/2025, 11:42:56 AM
+)
+
+Fetched Order: Array
+(
+    [address] => Phase 10, Camacho, City of Balanga, Bataan
+    [contactNumber] => 639789316891
+    [email] => jeadjylle@gmail.com
+    [name] => Edward Santos, Jr.
+    [orderID] => 8
+    [referenceNumber] => 675823642947298
+    [timestamp] => 3/31/2025, 1:25:31 PM
+)
+
+Fetched Order: Array
+(
+    [address] => Phase 10, Camacho, City of Balanga, Bataan
+    [contactNumber] => 639789316891
+    [email] => jeadjylle@gmail.com
+    [name] => Edward Santos, Jr.
+    [orderID] => 13
+    [referenceNumber] => 656564654643424
+    [timestamp] => 4/10/2025, 1:48:29 AM
+)
+
+Fetched Order: Array
+(
+    [address] => Phase 10, Camacho, City of Balanga, Bataan
+    [contactNumber] => 639789316891
+    [email] => jeadjylle@gmail.com
+    [name] => Edward Santos, Jr.
+    [orderID] => 14
+    [referenceNumber] => 346321375843433
+    [timestamp] => 4/10/2025, 2:10:20 AM
+)
+
+Fetched Order: 
+Fetched Order: Array
+(
+    [address] => Phase 10, Camacho, City of Balanga, Bataan
+    [contactNumber] => 639789316891
+    [email] => jeadjylle@gmail.com
+    [name] => Edward Santos, Jr.
+    [orderID] => 15
+    [referenceNumber] => 123456789098765
+    [timestamp] => 4/10/2025, 2:16:51 AM
+)
+
+Fetched Order: Array
+(
+    [address] => Phase 10, Camacho, City of Balanga, Bataan
+    [contactNumber] => 639789316891
+    [email] => jeadjylle@gmail.com
+    [name] => Edward Santos, Jr.
+    [orderID] => 16
+    [referenceNumber] => 456789009876543
+    [timestamp] => 4/10/2025, 2:21:03 AM
+)
+
+Fetched Order: Array
+(
+    [address] => Phase 9, Barangay 176, City of Caloocan, Metro Manila (NCR)
+    [contactNumber] => 639686664011
+    [email] => banokempas@gmail.com
+    [name] => Bern Salvador
+    [orderID] => 9
+    [referenceNumber] => 456789098765456
+    [timestamp] => 4/11/2025, 1:31:16 PM
+)
+
+Fetched Order: 
+Fetched Order: Array
+(
+    [address] => Phase 9, Barangay 176, City of Caloocan, Metro Manila (NCR)
+    [contactNumber] => 639686664011
+    [email] => banokempas@gmail.com
+    [name] => Bern Salvador
+    [orderID] => 10
+    [referenceNumber] => 326263465463543
+    [timestamp] => 4/11/2025, 1:37:52 PM
+)
+
+Fetched Order: 
+Fetched Order: Array
+(
+    [address] => Phase 10, Barangay 176, City of Caloocan, Metro Manila (NCR)
+    [contactNumber] => 639150641248
+    [email] => noracube106@gmail.com
+    [name] => Nora Cube
+    [orderID] => 11
+    [referenceNumber] => 98765353243546
+    [timestamp] => 4/11/2025, 2:18:33 PM
+)
+
+Fetched Order: 

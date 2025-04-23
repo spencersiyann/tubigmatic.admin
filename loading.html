@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tubig Matic</title>
+    <style>
+        /* Reset default margin, padding, and box-sizing for all elements */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* Body */
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f8f9fa;
+            flex-direction: column;
+            font-family: Arial, sans-serif;
+        }
+
+        /* Logo styling */
+        .logo {
+            width: 100px;
+            height: 100px;
+            margin-bottom: 20px;
+        }
+
+        /* Title text styling */
+        .title {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+
+        /* Progress bar container styling */
+        .progress-container {
+            width: 80%;
+            max-width: 400px;
+            height: 10px;
+            background: #ddd;
+            border-radius: 5px;
+            overflow: hidden;
+        }
+
+        /* Progress bar itself, will animate as the width changes */
+        .progress-bar {
+            width: 0%;
+            height: 100%;
+            background: #007bff;
+            transition: width 0.5s; /* Smooth transition when progress changes */
+        }
+    </style>
+</head>
+
+<body>
+    <img src="logo.png" alt="Logo" class="logo">
+    <div class="title">Loading...</div>
+    <div class="progress-container">
+        <!-- Actual progress bar that will animate -->
+        <div class="progress-bar" id="progress-bar"></div>
+    </div>
+
+    <script>
+        // Initial progress value set to 0
+        let progress = 0;
+
+        // Function to update the progress bar
+        function updateProgress() {
+            if (progress < 100) {
+                // Increment the progress by 5% every 50ms
+                progress += 5;
+                // Set the width of the progress bar based on progress
+                document.getElementById("progress-bar").style.width = progress + "%";
+                // Call the function again after 50ms
+                setTimeout(updateProgress, 50);
+            } else {
+                // Once progress reaches 100%, redirect to the dashboard page
+                window.location.href = "dashboard.php";
+            }
+        }
+
+        // Start the progress bar update when the page loads
+        updateProgress();
+    </script>
+</body>
+
+</html>
